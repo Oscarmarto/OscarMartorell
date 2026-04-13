@@ -20,7 +20,7 @@
 - 📧 Email: oscarmartorellg@gmail.com
   
 ## 🚀 Main Project
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d46f47c2-73ef-4425-b55b-a08d8e985fc4" />
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/d46f47c2-73ef-4425-b55b-a08d8e985fc4" />
 ### 📍 ReseñaLO  
 👑 Owner  
 
