@@ -14,7 +14,7 @@
 - 🌐 HTML & CSS
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarmarto)
 
 ## 📫 Contact
 - 📧 Email: oscarmartorellg@gmail.com
