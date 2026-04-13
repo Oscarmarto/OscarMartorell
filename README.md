@@ -16,11 +16,28 @@
   🌐 HTML & CSS
 </p>
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscarmarto&show_icons=true&theme=tokyonight)](https://github.com/Oscarmarto)
-
-## 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmarto&layout=compact&theme=tokyonight)](https://github.com/Oscarmarto)
-
 ## 📫 Contact
 - 📧 Email: oscarmartorellg@gmail.com
+  
+## 🚀 Main Project
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d46f47c2-73ef-4425-b55b-a08d8e985fc4" />
+### 📍 ReseñaLO  
+👑 Owner  
+
+**ReseñaLO** is a hybrid app between a social network and Google Maps that allows users to discover, review, and share experiences in places that usually don’t get much visibility.
+
+The platform lets users:
+- 📍 Add new places  
+- ⭐ Leave reviews and ratings  
+- 💬 Read opinions from other users  
+- 🌍 Discover hidden or less-known locations  
+
+This creates an active community where users can recommend and explore new places together.
+
+### 🎯 Objective
+The goal of **ReseñaLO** is to help people discover interesting places such as viewpoints, bars, museums, and local events, making decision-making easier through personalized reviews.
+
+👉 *"If you can visit it, you can review it"*  
+
+**Video DEMO**
+https://youtu.be/kBQ0whhai6c
