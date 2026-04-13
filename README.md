@@ -17,10 +17,10 @@
 </p>
 
 ## 📊 GitHub Stats
-![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarmarto&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscarmarto&show_icons=true&theme=tokyonight)](https://github.com/Oscarmarto)
 
 ## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmarto&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmarto&layout=compact&theme=tokyonight)](https://github.com/Oscarmarto)
 
 ## 📫 Contact
 - 📧 Email: oscarmartorellg@gmail.com
