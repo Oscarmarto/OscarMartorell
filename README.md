@@ -6,6 +6,8 @@
 - 🌐 I also use **HTML & CSS** for web development  
 - 🆕 Currently learning **PHP and Python**
 
+---
+
 ## 🛠️ Technologies & Tools
 <p>
   ☕ Java &nbsp;&nbsp;
@@ -16,28 +18,35 @@
   🌐 HTML & CSS
 </p>
 
+---
+
 ## 📫 Contact
 - 📧 Email: oscarmartorellg@gmail.com
-  
+
+---
+
 ## 🚀 Main Project
-<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/d46f47c2-73ef-4425-b55b-a08d8e985fc4" />
+
 ### 📍 ReseñaLO  
-👑 Owner  
+👑 **Owner**
+
+<img src="https://github.com/user-attachments/assets/d46f47c2-73ef-4425-b55b-a08d8e985fc4" width="500"/>
 
 **ReseñaLO** is a hybrid app between a social network and Google Maps that allows users to discover, review, and share experiences in places that usually don’t get much visibility.
 
-The platform lets users:
+### ✨ Features
 - 📍 Add new places  
 - ⭐ Leave reviews and ratings  
 - 💬 Read opinions from other users  
 - 🌍 Discover hidden or less-known locations  
 
-This creates an active community where users can recommend and explore new places together.
-
 ### 🎯 Objective
-The goal of **ReseñaLO** is to help people discover interesting places such as viewpoints, bars, museums, and local events, making decision-making easier through personalized reviews.
+Help users discover interesting places such as viewpoints, bars, museums, and local events, making decisions easier through personalized reviews.
 
 👉 *"If you can visit it, you can review it"*  
 
-**Video DEMO**
-https://youtu.be/kBQ0whhai6c
+---
+
+## 🎥 Demo
+
+[![Watch the video](https://img.youtube.com/vi/kBQ0whhai6c/0.jpg)](https://youtu.be/kBQ0whhai6c)
