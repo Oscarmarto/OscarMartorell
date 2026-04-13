@@ -2,19 +2,25 @@
 
 ## 🧑‍💻 About Me
 - 💼 Junior Programmer  
-- 💻 I work with Java, JavaScript, C#, SQL, and JSON  
-- 🌐 I also use HTML and CSS for web development  
+- 💻 I work with **Java, JavaScript, C#, SQL, JSON, MongoDB and React Native**  
+- 🌐 I also use **HTML & CSS** for web development  
+- 🆕 Currently learning **PHP and Python**
 
 ## 🛠️ Technologies & Tools
-- ☕ Java
-- 🟨 JavaScript
-- 💜 C#
-- 🗄️ SQL
-- 📄 JSON
-- 🌐 HTML & CSS
+<p>
+  ☕ Java &nbsp;&nbsp;
+  🟨 JavaScript &nbsp;&nbsp;
+  💜 C# &nbsp;&nbsp;
+  🗄️ SQL & MongoDB &nbsp;&nbsp;
+  📄 JSON &nbsp;&nbsp;
+  🌐 HTML & CSS
+</p>
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarmarto)
+![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarmarto&show_icons=true&theme=tokyonight)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmarto&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
 - 📧 Email: oscarmartorellg@gmail.com
